@@ -39,6 +39,7 @@ $green-darken:#16a085;
 			font-weight: bold;
 		}
 		&__item {
+			overflow: auto;
 			position: relative;
 			margin: 10px 0;
 			font-size: 18px;
